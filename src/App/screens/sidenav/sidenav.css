@@ -1,0 +1,35 @@
+/* .frame1 {
+    width: 142px;
+    display: flex;
+    flex-direction: column;
+    margin:0;
+    gap: 4.12px;
+} */
+
+.css-12i7wg6-MuiPaper-root-MuiDrawer-paper{
+    width: 264px;
+        background-color: #110030 !important;
+    }
+
+.css-174vfuo-MuiPaper-root{
+    width: 264px;
+    background-color: #110030 !important;   
+}
+.contain{
+    width: 264px;
+    /* width: 14vw; */
+    background-color: #110030 !important;
+}
+
+.activeHover{
+    background-color: rgba(255, 255, 255,0.2);
+    border-radius: 8px;
+}
+.listItem{
+    padding: 12px;
+}
+.listItem:hover{
+    /* padding: 12px; */
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 8px;
+}

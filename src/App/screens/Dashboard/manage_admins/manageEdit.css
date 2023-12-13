@@ -1,0 +1,7 @@
+.card{
+    overflow-y: scroll;
+}
+
+.card::-webkit-scrollbar{
+    display: none;
+}

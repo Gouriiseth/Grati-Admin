@@ -1,0 +1,46 @@
+/* .css-1ygcj2i-MuiTableCell-root{
+    padding: 0 !important;
+    line-height:0 !important;
+} */
+
+/* .css-1ex1afd-MuiTableCell-root{
+    padding: 0 !important;
+} */
+
+/* .randomClass1 {
+    height: auto;
+    max-height: 893px;
+    overflow-y: scroll;
+    padding: 32px;
+} */
+
+/* .css-4jnixx-MuiStack-root {
+   
+    padding: 0;
+    background-color: azure;
+    height: 44px;
+    width: 145px;
+}
+.css-4jnixx-MuiStack-root>.MuiTextField-root{
+   min-width: 125px;}
+
+.css-o9k5xi-MuiInputBase-root-MuiOutlinedInput-root{
+    height: 100%;
+}
+.css-4jnixx-MuiStack-root>:not(style):not(style){
+   
+min-width: 125px;
+} */
+.css-o9k5xi-MuiInputBase-root-MuiOutlinedInput-root{
+    height: 100%;
+    padding:0;
+    background-color: #EEEEEE;
+    width: 145px;
+}
+.css-o9k5xi-MuiInputBase-root-MuiOutlinedInput-root:hover{
+    border-color: red;
+}
+
+.css-nxo287-MuiInputBase-input-MuiOutlinedInput-input {
+    font-size: 15px;
+}

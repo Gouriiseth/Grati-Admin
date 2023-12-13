@@ -1,0 +1,33 @@
+.css-1wc848c-MuiFormHelperText-root.Mui-error{
+    margin: initial;
+}
+
+.css-wjh20t-MuiPagination-ul{
+    justify-content: end;
+}
+.css-10w330c-MuiButtonBase-root-MuiPaginationItem-root.Mui-selected {
+       /* background-color: rgba(82, 76, 187, 1); */
+       /* color: white; */
+       font-size: 14px;
+}
+.css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root.Mui-selected{
+    background-color:none;
+}
+.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root {
+    margin-bottom: 2px;
+}
+
+.pagination-limit-select{
+    width: fit-content !important;
+}
+/* .css-rtzg0z-MuiInputBase-root{
+    border-radius: 6px;
+} */
+
+/* .card {
+    overflow-y: scroll;
+}
+
+.card::-webkit-scrollbar {
+    display: none;
+} */

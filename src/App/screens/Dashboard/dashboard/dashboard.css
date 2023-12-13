@@ -1,0 +1,22 @@
+.randomClass1{
+    height: auto;
+    /* max-height: 893px; */
+    max-height: calc(100vh - 128px);
+    overflow-y: scroll;
+    /* padding: 32px; */
+}
+.randomClass1::-webkit-scrollbar {
+    display: none;
+}
+.conta {
+    display: grid;
+    /* grid-template-columns: repeat(auto-fill, minmax(317px, 1fr));    367px */
+    grid-template-columns: repeat(auto-fill, minmax(367px, 1fr));
+    /* 367px */
+    grid-gap: 32px;
+    /* flex-wrap: wrap; */
+}
+
+.box {
+    border-radius: 5px;
+}

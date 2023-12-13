@@ -1,0 +1,106 @@
+.chatPage{
+    height: 100%;
+    /* background-color: aquamarine; */
+}
+
+.cs-main-container>.cs-sidebar.cs-sidebar--left {
+    /* max-width: max-content;     */
+    gap: 24px;
+    padding: 24px 0;
+}
+.cs-conversation__unread-dot{
+    background: #524CBB;
+    margin-top: auto;
+}
+.cs-main-container .cs-conversation-header{
+    background: none;
+}
+.cs-conversation-header__content .cs-conversation-header__user-name{
+    background:none;
+}
+.cs-conversation-header__content .cs-conversation-header__info{
+    background: none;
+}
+.scrollbar-container{
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    /* align-items: center; */
+}
+.cs-message--incoming .cs-message__content{
+    border-radius: 8px;
+    background-color: #EEEEEE;
+    max-width: 558px;
+    max-height: 56px;
+    padding: 18px 16px ;
+    /* overflow-y: auto; */
+
+}
+.cs-message--outgoing .cs-message__content{
+    border-radius: 8px;
+    background-color: rgba(82, 76, 187, 0.2);
+    max-width: 611px;
+    max-height: 76px;
+    padding: 18px 16px;
+    overflow-y: auto;
+}
+.cs-chat-container .cs-message-input {
+    height: 104px;
+}
+
+.scrollbar-container{
+    background:none ;
+}
+.cs-message-input__content-editor {
+    background:none;
+}
+.cs-chat-container .cs-message-input .cs-message-input__content-editor-wrapper:last-child {
+ background:none;
+}
+.cs-conversation:hover{
+    background-color: #eeeeee96;
+}
+.cs-conversation__name{
+    font-size: 14px;
+    font-weight: 600;
+    font-family: inherit;
+}
+.cs-conversation__info-content{
+    font-size: 12px;
+    font-weight: 400;
+    font-family: inherit;
+    color: rgba(136, 136, 136, 1);
+}
+.cs-chat-container .cs-message-input .cs-message-input__content-editor-wrapper:first-child{
+    background:none;
+}
+
+.cs-conversation.cs-conversation--active{
+    background-color: #EEEEEE;
+}
+.cs-conversation.cs-conversation--active .cs-conversation__name{
+    color: black;
+}
+.cs-conversation__last-activity-time{
+    padding-left: 64px;
+    margin-right: -10px;
+    font-size: 12px;
+    font-family: inherit;
+    color: black;
+}
+.css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root.Mui-selected{
+    background-color: green;
+}
+
+.onload{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    height: max-content;
+    font-size: 30px;
+    color: #c1b9b9;
+    font-family: initial;
+}
+/* .css-2g3p8a{
+    width:110px;
+} */

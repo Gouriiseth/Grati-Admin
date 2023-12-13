@@ -1,0 +1,75 @@
+.gradient {
+    background: linear-gradient(0deg, rgba(255, 129, 68, 1), rgba(82, 76, 187, 1));
+    background-size: 100% 100%, auto;
+    /* width:800px;
+     height: 800px;
+      opacity: 0.20;
+       background: '#D34B09';
+        border-radius: 9999px */
+}
+.login-card{
+    background:rgba(255, 255, 255, 1);
+    width: 520px;
+    min-height: 547.41px;
+    
+}
+
+.frame2{
+    width: 448px;
+    height: 66px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    gap:4px
+}
+
+.frame3{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 448px;
+    height:120px;
+    gap: 4px;
+}
+
+.fields{
+    width:448px ;
+    display: flex;
+    flex-direction: column;
+    height: 120px;
+    gap: 20px;
+}
+
+input{
+    width: 448px;
+    height: 50px;
+}
+input:focus {
+    outline: none;
+}
+
+.login-btn{
+    width: 448px;
+    height: 55px;
+    padding: 10x 16px;
+    background-color: #524CBB;
+    border-radius: 6px;
+    animation: Ease out 300ms;
+}
+
+
+
+/* .form-fields{
+    width: 448px;
+    height: 50px;
+    gap: 20px;
+} */
+
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input{
+    border: 1px;
+    border-color:red !important;
+    border-radius:8px;
+    padding:10px;
+    width: 420px !important;
+    /* height: 50px !important; */
+}
